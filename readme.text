@@ -1,0 +1,14 @@
+http://127.0.0.1:8000/api/login/
+http://127.0.0.1:8000/api/posts/
+{
+  "username":"Admin1",
+  "password":"Pass123"
+}
+
+{
+  "title": "My Demo Post",
+  "description": "Ye mera pehla successful backend post hai.",
+  "amount": "1500.00",
+  "purpose": "Office Supplies",
+  "expiry_date": "2026-02-01"
+}
