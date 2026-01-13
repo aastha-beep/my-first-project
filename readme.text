@@ -12,3 +12,5 @@ http://127.0.0.1:8000/api/posts/
   "purpose": "Office Supplies",
   "expiry_date": "2026-02-01"
 }
+External database url
+postgresql://aastha:hWEwxouAB5HXR1XBeHz97LTqysqRUbrl@dpg-d5j1up6r433s738rm4e0-a.oregon-postgres.render.com/my_project_db_xjny
